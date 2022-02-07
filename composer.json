@@ -1,0 +1,19 @@
+{
+    "name": "Mamun/contact",
+    "description": "This package sand mail to admin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "al mamun",
+            "email": "almamun214@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mamun\\contact\\": "src/"
+        }
+    }
+}
